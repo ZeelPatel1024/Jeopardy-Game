@@ -1,0 +1,20 @@
+.jeopButton{
+    width: 100pt;
+    height: 80pt;
+    border-radius: 10px;
+    font-family: fantasy;
+    font-size: 30pt;
+    background-color: #060CE9;
+    color: rgb(204, 177, 24);
+}
+.jeopButton:hover {
+    background-color: #3700ff; /* Green */
+    color: rgb(238, 255, 0);
+    /* box-shadow:inset -0.6em -0.6em 0 -0.35em rgba(0,0,0,0.2); */
+    transform: translateY(2px);
+    box-shadow:inset -0.6em -0.6em 0 -0.35em rgba(0,0,0,0.2), 0 17px 50px 0 rgba(132, 62, 253, 0.19);
+
+}
+.jeopButton:active {
+    transform: translateY(4px);
+}

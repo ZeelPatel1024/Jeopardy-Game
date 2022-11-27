@@ -1,0 +1,122 @@
+.pageContainer{
+    width: 520pt;
+    height: 400pt;
+
+    margin-left: 200pt;
+
+    background-color: rgb(7, 2, 59);
+    text-align: center;
+    align-items: center;
+    padding-right: 50pt;
+    padding-left: 20pt;
+    padding-bottom: 40pt;
+
+    padding-top: -10pt;
+    border-radius: 10pt;
+}
+
+#solveTheQuestion{
+      /* height: 50pt; */
+    /* margin-top: 50px; */
+    border-radius: 10pt;
+    background-color: rgb(56, 58, 170);
+    width: 550pt;
+    height: 260pt;
+    margin-top: -300pt;
+    padding-top: 50pt;
+    /* visibility: hidden; */
+    text-align: center;
+}
+#showAnswer{
+     /* height: 50pt; */
+    /* margin-top: 50px; */
+    border-radius: 10pt;
+    background-color: rgb(56, 58, 170);
+    width: 550pt;
+    height: 260pt;
+    margin-top: -300pt;
+    padding-top: 80pt;
+    /* visibility: hidden; */
+    text-align: center;
+}
+#rightBox{
+    border-radius: 10pt;
+    background-color: rgb(0, 82, 34);
+    width: 550pt;
+    height: 300pt;
+    margin-top: -341pt;
+    padding-top: 50pt;
+    /* visibility: hidden; */
+    text-align: center;  
+}
+
+#wrongBox{
+    border-radius: 10pt;
+    background-color: rgb(82, 0, 0);
+    width: 550pt;
+    height: 300pt;
+    margin-top: -350pt;
+    padding-top: 50pt;
+    /* visibility: hidden; */
+    text-align: center; 
+}
+
+.inputBox{
+    width: 50px;
+    height: 150px;
+}
+
+#topPageContainer{
+    /* height: 50pt; */
+    /* margin-top: 50px; */
+    border-radius: 10pt;
+    background-color: rgb(56, 58, 170);
+    width: 550pt;
+    height: 300pt;
+    padding-top: 50pt;
+    /* visibility: hidden; */
+    text-align: center;
+}
+
+#topic{
+    font-family: cursive;
+    color: aliceblue;
+    font-size: 30pt;
+    /* background-color: rgb(24, 57, 87); */
+}
+
+#question{
+    font-size: 50pt;
+    color: gold;
+}
+
+.buttons{
+    display: flex;
+    gap: 10pt;
+    margin-left: 180pt;
+}
+
+#button2,
+#button1{
+    font-size: 30pt;
+    font-family: fantasy;
+    border-radius: 10pt;
+    color: rgb(25, 3, 46);
+}
+
+#button1:hover,#button2:hover {
+    background-color: #3700ff; /* Green */
+    color: rgb(238, 255, 0);
+    /* box-shadow:inset -0.6em -0.6em 0 -0.35em rgba(0,0,0,0.2); */
+    box-shadow:inset -0.6em -0.6em 0 -0.35em rgba(0,0,0,0.2), 0 17px 50px 0 rgba(132, 62, 253, 0.19);
+
+}
+
+#button1:active,#button2:active {
+    transform: translateY(4px);
+}
+
+#money{
+    font-size: 50pt;
+    color: gold;
+}

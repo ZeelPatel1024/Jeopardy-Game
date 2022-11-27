@@ -1,0 +1,187 @@
+[
+    {
+        "id":1,
+        "money": "100",
+        "category": "Category 1",
+        "description": "What is the tallest building?",
+        "answer":"Burj Kalifa"
+    },
+    {
+        "id":1,
+        "money": "100",
+        "category": "Category 2",
+        "description": "What is the tallest building?",
+        "answer":"Burj Kalifa"
+    },
+    {
+        "id":1,
+        "money": "100",
+        "category": "Category 3",
+        "description": "What is the tallest building?",
+        "answer":"Burj Kalifa"
+    },
+    {
+        "id":1,
+        "money": "100",
+        "category": "Category 4",
+        "description": "What is the tallest building?",
+        "answer":"Burj Kalifa"
+    },
+    {
+        "id":1,
+        "money": "100",
+        "category": "Category 5",
+        "description": "What is the tallest building?",
+        "answer":"Burj Kalifa"
+    },
+    {
+        "id":2,
+        "money": "200",
+        "category": "Category 1",
+        "description": "What is the smallest building?",
+        "answer":"Anit Burj Kalifa"
+    },
+    {
+        "id":2,
+        "money": "200",
+        "category": "Category 2",
+        "description": "What is the smallest building?",
+        "answer":"Anit Burj Kalifa"
+    },
+    {
+        "id":2,
+        "money": "200",
+        "category": "Category 3",
+        "description": "What is the smallest building?",
+        "answer":"Anit Burj Kalifa"
+
+    },
+    {
+        "id":2,
+        "money": "200",
+        "category": "Category 4",
+        "description": "What is the smallest building?",
+        "answer":"Anit Burj Kalifa"
+
+    },
+    {
+        "id":2,
+        "money": "200",
+        "category": "Category 5",
+        "description": "What is the smallest building?",
+        "answer":"Anit Burj Kalifa"
+
+    },
+    {
+        "id":3,
+        "money": "300",
+        "category": "Category 1",
+        "description": "What is the medium size building?",
+        "answer":"Mid Burj Kalifa"
+
+    },
+    {
+        "id":3,
+        "money": "300",
+        "category": "Category 2",
+        "description": "What is the medium size building?",
+        "answer":"Mid Burj Kalifa"
+
+    },
+    {
+        "id":3,
+        "money": "300",
+        "category": "Category 3",
+        "description": "What is the medium size building?",
+        "answer":"Mid Burj Kalifa"
+
+    },
+    {
+        "id":3,
+        "money": "300",
+        "category": "Category 4",
+        "description": "What is the medium size building?",
+        "answer":"Mid Burj Kalifa"
+
+    },
+    {
+        "id":3,
+        "money": "300",
+        "category": "Category 5",
+        "description": "What is the medium size building?",
+        "answer":"Mid Burj Kalifa"
+
+    },
+    {
+        "id":4,
+        "money": "400",
+        "category": "Category 1",
+        "description": "Who is my favorite Billionare",
+        "answer":"Elon Musk"
+
+    },
+    {
+        "id":4,
+        "money": "400",
+        "category": "Category 2",
+        "description": "Who is my favorite Billionare",
+        "answer":"Elon Musk"
+
+    },
+    {
+        "id":4,
+        "money": "400",
+        "category": "Category 3",
+        "description": "Who is my favorite Billionare",
+        "answer":"Elon Musk"
+
+    },
+    {
+        "id":4,
+        "money": "400",
+        "category": "Category 4",
+        "description": "Who is my favorite Billionare",
+        "answer":"Elon Musk"
+
+    },
+    {
+        "id":4,
+        "money": "400",
+        "category": "Category 5",
+        "description": "Who is my favorite Billionare",
+        "answer":"Elon Musk"
+
+    },
+    {
+        "id":5,
+        "money": "500",
+        "category": "Category 1",
+        "description": "Why is Gamora the way she is?" ,
+        "answer":"Cuz Drax said so"
+  
+    },{
+        "id":5,
+        "money": "500",
+        "category": "Category 2",
+        "description": "Why is Gamora the way she is?",
+        "answer":"Cuz Drax said so"
+    },{
+        "id":5,
+        "money": "500",
+        "category": "Category 3",
+        "description": "Why is Gamora the way she is?",
+        "answer":"Cuz Drax said so"    
+    },{
+        "id":5,
+        "money": "500",
+        "category": "Category 4",
+        "description": "Why is Gamora the way she is?",
+        "answer":"Cuz Drax said so"
+    },{
+        "id":5,
+        "money": "500",
+        "category": "Category 5",
+        "description": "Why is Gamora the way she is?",
+        "answer":"Cuz Drax said so"
+    }
+]

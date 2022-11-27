@@ -1,0 +1,14 @@
+#header{
+    color: rgb(241, 228, 255);
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 35pt;
+}
+
+.levels{
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+    margin-left: 150pt;
+    margin-top: 50pt;
+}

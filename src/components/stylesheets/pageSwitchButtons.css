@@ -1,0 +1,26 @@
+#createGame{
+    background-color: rgb(222, 204, 236);
+    border-radius: 4px;
+    font-size: 20px;
+    border: 2px solid #020161;
+    font-family: fantasy;
+    color: #040329;
+    height: 30pt;
+    width: 120pt;
+    box-shadow:inset -0.6em -0.6em 0 -0.35em rgba(0,0,0,0.2);
+    /* box-shadow:inset 0.6em 0 0 -0.35em rgba(0,0,0,0.2); */
+
+
+}
+
+#createGame:hover {
+    background-color: #553bb3; /* Green */
+    color: white;
+    /* box-shadow:inset -0.6em -0.6em 0 -0.35em rgba(0,0,0,0.2); */
+
+    box-shadow:inset -0.6em -0.6em 0 -0.35em rgba(0,0,0,0.2), 0 17px 50px 0 rgba(255, 255, 255, 0.19);
+
+}
+#createGame:active {
+    transform: translateY(4px);
+}
